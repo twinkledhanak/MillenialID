@@ -1,0 +1,7 @@
+{
+  "name": "milienial",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
